@@ -9,7 +9,7 @@ Je to **velmi jednoduché**!
 - Co poté můžete udělat, je přejít do sekce [Issues](https://github.com/mc-diamondcrew-cz/issue-tracker/issues) tohoto repositoráře.
 - Poté kliknete na tlačítko `New issue` a vyplníte požadované informace.
 - Pro tento příklad, napíšeme `Nemůžu otevřít dveře` jako titulek a stručné vysvětlení toho, jak jste na chybu narazili.
-- Pokud nám chcete práci ulechčit, můžete také přiřadit `Labels`, v tomto případě byste přiřadili `chyba` a `server-survival`.
+[//]: # - Pokud nám chcete práci ulechčit, můžete také přiřadit `Labels`, v tomto případě byste přiřadili `chyba` a `server-survival`.
 - Poté pouze klikněte na `Submit new issue` pro odeslání, člen našeho týmu by s Vámi měl problém v krátké chvíli řešit.
 
 Vidíte? Nebylo to tak těžké!
